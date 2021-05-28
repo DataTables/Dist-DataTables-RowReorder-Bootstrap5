@@ -19,7 +19,7 @@ npm install datatables.net-rowreorder-bs5
 
 ```
 var $ = require( 'jquery' );
-var dt = require( 'datatables.net-rowreorder-bs5}' )( window, $ );
+var dt = require( 'datatables.net-rowreorder-bs5' )( window, $ );
 ```
 
 ### bower

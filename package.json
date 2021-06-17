@@ -4,16 +4,16 @@
     "main": "js/rowReorder.bootstrap5.js",
     "style": "css/rowReorder.bootstrap5.css",
     "types": "./types/rowReorder.bootstrap5.d.ts",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "RowReorder",
- "Row Reordering",
+        "Row Reordering",
         "Bootstrap",
- "Bootstrap5",
+        "Bootstrap5",
         "Datatables",
         "jQuery",
         "table",

@@ -2,12 +2,14 @@
     "name": "datatables.net-rowreorder-bs5",
     "description": "RowReorder for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/rowReorder.bootstrap5.js",
+    "module": "js/rowReorder.bootstrap5.mjs",
     "style": "css/rowReorder.bootstrap5.css",
     "types": "./types/rowReorder.bootstrap5.d.ts",
     "version": "1.2.8",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [

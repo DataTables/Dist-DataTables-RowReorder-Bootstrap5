@@ -31,7 +31,7 @@ table.dataTable td.reorder {
 }
 
 html.dark div.dt-rowReorder-float-parent {
-  outline-color: #6ea8fe;
+  outline-color: rgb(110, 168, 254);
 }
 html.dark div.dt-rowReorder-float-parent table.dt-rowReorder-float {
   background-color: var(--dt-html-background);
@@ -41,5 +41,5 @@ html.dark tr.dt-rowReorder-moving {
 }
 
 html[data-bs-theme=dark] div.dt-rowReorder-float-parent {
-  outline-color: #0d6efd;
+  outline-color: rgb(13, 110, 253);
 }
